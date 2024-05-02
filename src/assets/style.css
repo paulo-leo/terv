@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: #39495e;
+    overflow: hidden;
+}
+
+.title {
+    color: #39495e;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+}
