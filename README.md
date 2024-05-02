@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/paulo-leo/terv/main/src/assets/logo.png" width="300" alt="Laravel Logo"></p>
 # Terv.JS
 
 ## Electron + React + Vite 
